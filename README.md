@@ -1,4 +1,4 @@
-# proyecto_semana7
+# Proyecto_Semana7
 
  modelos/
  libro.py
